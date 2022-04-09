@@ -3,7 +3,7 @@ py [file-code-name] [file-input-name]
 
 # Example
 py sudoku_dfs.py input1.txt
-or
+OR
 py sudoku_heu.py input1.txt
 
 # Notice
